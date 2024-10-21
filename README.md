@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tayebwa Noah(ndacyayisenga)! 🙋‍♂️
+# 👋 Hey there, I'm Noah! 🙋‍♂️
 
 **Software Developer | Open-Source Contributor | Blockchain Enthusiast**
 
