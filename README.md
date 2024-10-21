@@ -21,7 +21,6 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 #### **Languages**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -33,7 +32,6 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 
 #### **Blockchain**
 ![Hedera Hashgraph](https://img.shields.io/badge/Hedera_Hashgraph-000000?style=for-the-badge&logo=hashgraph&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![NFT](https://img.shields.io/badge/NFT-008080?style=for-the-badge&logo=nft&logoColor=white)
 
 #### **Tools**
@@ -45,7 +43,6 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 ![Antora](https://img.shields.io/badge/Antora-282828?style=for-the-badge&logoColor=white)
 
 #### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Pinata](https://img.shields.io/badge/Pinata-000000?style=for-the-badge&logo=pinata&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
