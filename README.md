@@ -56,15 +56,5 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 
 ---
 
-### 🔥 My Projects
-
-Here are some of my favorite projects I've been working on:
-
-- 🎮 **[Noobisoft Control Center](https://github.com/Jexsie/NoobisoftControlCenter)**: Admin platform connecting multiple games to the Hedera blockchain, facilitating NFT sharing.
-- 📦 **[Cargo Tracker Documentation](https://github.com/Ndacyayisenga-droid/cargotracker/tree/docs)**: Contributed to the modernization and improvement of the Cargo Tracker project documentation.
-- 🛠️ **[Hedera-based Games (Tokemon & Need For Token)]**: Two interconnected games leveraging NFTs stored on **Hedera Hashgraph** and **IPFS**.
-
----
-
 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
