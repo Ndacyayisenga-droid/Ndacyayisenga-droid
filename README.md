@@ -73,7 +73,10 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github actions" width="40" height="40"/> </a>
 <a href="https://pinata.cloud/" target="_blank"> <img src="https://img.shields.io/badge/Pinata-000000?style=for-the-badge&logo=pinata&logoColor=white" alt="pinata" width="40" height="40"/> </a>
 <a href="https://bash.cyberciti.biz/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://hedera.com/" target="_blank"> <img src="https://img.shields.io/badge/Hedera-1B9CFC?style=for-the-badge&logo=hedera&logoColor=white" alt="hedera" width="40" height="40"/> </a>
+<a href="https://nft.storage/" target="_blank"> <img src="https://img.shields.io/badge/NFT-FF6F00?style=for-the-badge&logo=ethereum&logoColor=white" alt="nft" width="40" height="40"/> </a>
 </p>
+
 
 ---
 
