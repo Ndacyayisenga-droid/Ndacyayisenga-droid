@@ -66,28 +66,5 @@ Here are some of my favorite projects I've been working on:
 
 ---
 
-### 📫 Let's Connect!
-
-- 🌐 **Website**: [tayebwa-noah.dev](https://noahtayebwa.netlify.app/)
-- 🐦 **Twitter**: [@tayebwa_noah](https://x.com/NdacyayisengaN1)
-- 💼 **LinkedIn**: [Tayebwa Noah](https://www.linkedin.com/in/ndacyayisenga-droid/)
-- 📧 **Email**: noah@open-elements.com
-
----
-
-### 🏆 Accomplishments & Milestones
-
-- 🌱 **Google Summer of Code 2024**: Collaborated with the Eclipse Foundation on the **Cargo Tracker** documentation.
-- ⚡ **Blockchain Game Developer**: Interconnecting virtual worlds with real value using NFTs and smart contracts.
-- 🎓 **Hedera Hashgraph Explorer**: Developing smart contracts, NFT logic, and decentralized file storage on **IPFS**.
-
----
-
-_"The only limit is the one you set for yourself."_
-
----
-
-You’ve come this far. Curious to see where I’ll take you next? The digital world is vast—let’s see what we can build together.
-
 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
