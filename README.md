@@ -10,8 +10,6 @@
 
 ---
 
----
-
 ### 🌟 About Me
 
 I'm a passionate software developer with a strong interest in **blockchain technology**, **distributed systems**, and **open-source contributions**. My journey in tech has taken me from web development to exploring the world of **Hedera Hashgraph**, **Java**, and **Spring Boot**. I love building scalable solutions and contributing to community projects that impact developers globally.
@@ -20,8 +18,6 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 - 🌱 **Currently learning**: Solidity, Smart Contract Development, and Advanced Blockchain Technologies.
 - 🎓 **Google Summer of Code 2024** participant at the Eclipse Foundation, modernizing **Cargo Tracker** documentation.
 - 💬 Ask me about: **Java**, **Spring Boot**, **Blockchain**, **Hedera Hashgraph**, **IPFS**, **NFTs**.
-
----
 
 ---
 
