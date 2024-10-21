@@ -51,8 +51,6 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndacyayisenga-droid&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndacyayisenga-droid&layout=compact&theme=radical)
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ndacyayisenga-droid&theme=react-dark)
-
 
 ---
 
