@@ -65,7 +65,14 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="vue" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> </a>
+<a href="https://vitejs.dev/" target="_blank"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite" width="40" height="40"/> </a>
+<a href="https://antora.org/" target="_blank"> <img src="https://img.shields.io/badge/Antora-282828?style=for-the-badge&logoColor=white" alt="antora" width="40" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring boot" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github actions" width="40" height="40"/> </a>
+<a href="https://pinata.cloud/" target="_blank"> <img src="https://img.shields.io/badge/Pinata-000000?style=for-the-badge&logo=pinata&logoColor=white" alt="pinata" width="40" height="40"/> </a>
+<a href="https://bash.cyberciti.biz/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
 ---
