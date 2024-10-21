@@ -53,5 +53,4 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 
 ---
 
-_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-
+_Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning.
