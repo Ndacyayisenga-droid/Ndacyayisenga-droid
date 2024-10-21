@@ -44,7 +44,6 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 #### **Cloud & DevOps**
 ![Pinata](https://img.shields.io/badge/Pinata-000000?style=for-the-badge&logo=pinata&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ndacyayisenga-droid&theme=react-dark)
 
 ---
 
@@ -52,6 +51,8 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndacyayisenga-droid&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndacyayisenga-droid&layout=compact&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ndacyayisenga-droid&theme=react-dark)
+
 
 ---
 
