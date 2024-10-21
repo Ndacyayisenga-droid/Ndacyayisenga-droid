@@ -53,4 +53,4 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 
 ---
 
-_"Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning."
+_"Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning."_
