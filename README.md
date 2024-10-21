@@ -11,7 +11,6 @@ I'm a passionate software developer with a strong interest in **blockchain techn
 - 🔭 **Currently working on**: Building decentralized applications using **Hedera Hashgraph**, integrating IPFS, and sharing NFTs between games.
 - 🌱 **Currently learning**: Solidity, Smart Contract Development, and Advanced Blockchain Technologies.
 - 🎓 **Google Summer of Code 2024** participant at the Eclipse Foundation, modernizing **Cargo Tracker** documentation.
-- 👯 **Collaborating with teams** to build innovative blockchain-based games like **Tokemon** and **Need For Token**.
 - 💬 Ask me about: **Java**, **Spring Boot**, **Blockchain**, **Hedera Hashgraph**, **IPFS**, **NFTs**.
 
 ---
