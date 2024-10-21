@@ -44,10 +44,10 @@ Here are some of my favorite projects I've been working on:
 
 ### 📫 Let's Connect!
 
-- 🌐 **Website**: [tayebwa-noah.dev](https://tayebwa-noah.dev)
-- 🐦 **Twitter**: [@tayebwa_noah](https://twitter.com/tayebwa_noah)
-- 💼 **LinkedIn**: [Tayebwa Noah](https://www.linkedin.com/in/tayebwa-noah/)
-- 📧 **Email**: tayebwa.noah@example.com
+- 🌐 **Website**: [tayebwa-noah.dev](https://noahtayebwa.netlify.app/)
+- 🐦 **Twitter**: [@tayebwa_noah](https://x.com/NdacyayisengaN1)
+- 💼 **LinkedIn**: [Tayebwa Noah](https://www.linkedin.com/in/ndacyayisenga-droid/)
+- 📧 **Email**: noah@open-elements.com
 
 ---
 
