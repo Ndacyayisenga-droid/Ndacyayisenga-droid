@@ -4,6 +4,15 @@
 
 ---
 
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndacyayisenga-droid&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndacyayisenga-droid&layout=compact&theme=radical)
+
+---
+
+---
+
 ### 🌟 About Me
 
 I'm a passionate software developer with a strong interest in **blockchain technology**, **distributed systems**, and **open-source contributions**. My journey in tech has taken me from web development to exploring the world of **Hedera Hashgraph**, **Java**, and **Spring Boot**. I love building scalable solutions and contributing to community projects that impact developers globally.
