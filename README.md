@@ -10,6 +10,12 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=rdodiya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
 <h3 align="left"> Currently learning (Languages and Tools:)</h3>
 
 <p align="left">
