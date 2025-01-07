@@ -44,4 +44,12 @@
 
 ---
 
+
+### 📌 Quote of the Day
+
 _"Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning."_
+
+---
+
+### 🚀 Fun Fact
+When I’m not coding, you can find me exploring blockchain innovations, playing strategy games, or learning about astronomy! 🌌
