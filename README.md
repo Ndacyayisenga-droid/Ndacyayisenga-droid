@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Noah! 🙋‍♂️
 
-**Software Developer | Open-Source Contributor | Blockchain Enthusiast**
+**Software Developer | Open-Source Contributor | Learning Everything Blockchain**
 
 ---
 
